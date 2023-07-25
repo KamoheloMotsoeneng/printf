@@ -1,2 +1,1 @@
-1. First partner on printf
-2. Second partner on printf 
+0x11. C - printf
